@@ -10,6 +10,7 @@
     <hr>
     <h2>사원 리스트</h2>
     <p><a href="./emp/list.do">사원 리스트 조회</a></p>
+    <p><a href="./emp/register.jsp">사원 등록 (과제)</a></p>
     <hr>
     <h2>부서 리스트(과제)</h2>
     <p><a href="./dept/list.do">부서 리스트(부서번호 오름차순 정렬) 조회</a></p>
